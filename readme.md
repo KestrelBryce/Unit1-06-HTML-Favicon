@@ -1,2 +1,0 @@
-[![GitHub's Super Linter](https://github.com/KestrelBryce/Unit1-06-HTML
-Favicon/tree/main/.github/workflows/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/KestrelBryce/Unit1-06-HTML-Favicon/tree/main/.github/workflows/actions)
